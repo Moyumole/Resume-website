@@ -1,102 +1,80 @@
-# Steven Zhang
-
-## Contact
-
-[zyy1764195262@gmail.com](mailto:zyy1764195262@gmail.com)
-
-(431)388-5022
-
-Winnipeg, MB
-
-## EDUCATION
-
-Grant Park High School
-
-Winnipeg, MB
-
-Class of 2019
-
-B.S.
-
-Computer Science
-
-University of Manitoba
-
-2019-2023
-
-B.A.(Adv.)
-
-Economics Major with Computer Science Minor
-
-Winnipeg, MB
-
-2024-Ongoing
-
-• 3.38 GPA (Depends on the job, might be underselling in some cases)
-
-## TECHNICAL SKILLS
-
--   C
-
--   Java
-
--   Python
-
--   HTML/CSS
-
--   Video editing experience
-
--   UI design experience 
-
--   Entry Level Unreal Engine 5 Scene Design
-
--   Entry Level Unreal Engine 5 Blueprint
-
--   Reality Capture 3D model 
-
--   Human Development Index analysis
-
--   Several Basic Economics model analysis
-
--   Labour Market analysis 
-
-## SOFT SKILLS
-
-- Teamwork, Leadership, Time Management, Flexibility, Patience, Bilingual
-
-## CAREER OBJECTIVE
-
-#NA
-
-## PROJECTS
-
-### NHL season (2022-2023) player salaries analysis
-
-Use different economic methods to analyze and predict player salaries. 
-Estimating the impact on salary in percentage terms of different hockey statistics.
-
-### Analyze the impact of the "Covic Gap" on Manitoba's labour force
-
-Use economic model to explain the labour force characteristics of different population group
+<h1 id="steven-zhang">Steven Zhang</h1>
+<h2 id="contact">Contact</h2>
+<p><a href="mailto:zyy1764195262@gmail.com">zyy1764195262@gmail.com</a></p>
+<p>(431)388-5022</p>
+<p>Winnipeg, MB</p>
+<h2 id="education">EDUCATION</h2>
+<p>Grant Park High School</p>
+<p>Winnipeg, MB</p>
+<p>Class of 2019</p>
+<p>B.S.</p>
+<p>Computer Science</p>
+<p>University of Manitoba</p>
+<p>2019-2023</p>
+<p>B.A.(Adv.)</p>
+<p>Economics Major with Computer Science Minor</p>
+<p>Winnipeg, MB</p>
+<p>2024-Ongoing</p>
+<p>• 3.38 GPA (Depends on the job, might be underselling in some cases)</p>
+<p>• A Grade in human-computer interaction, techinal writing, development economics, internationla trade, econometrics</p>
+<h2 id="technical-skills">TECHNICAL SKILLS</h2>
+<ul>
+<li><p>C</p>
+</li>
+<li><p>RStudio</p>
+</li>
+<li><p>Java</p>
+</li>
+<li><p>Python</p>
+</li>
+<li><p>Markdown</p>
+</li>
+<li><p>HTML/CSS</p>
+</li>
+<li><p>Video editing experience</p>
+</li>
+<li><p>UI design experience</p>
+</li>
+<li><p>Entry Level Unreal Engine 5 Scene Design</p>
+</li>
+<li><p>Entry Level Unreal Engine 5 Blueprint</p>
+</li>
+<li><p>Reality Capture 3D model </p>
+</li>
+<li><p>Human Development Index analysis</p>
+</li>
+<li><p>Several Basic Economics model analysis</p>
+</li>
+<li><p>Labour Market analysis </p>
+</li>
+</ul>
+<h2 id="soft-skills">SOFT SKILLS</h2>
+<ul>
+<li>Teamwork, Leadership, Time Management, Flexibility, Patience, Bilingual</li>
+</ul>
+<h2 id="career-objective">CAREER OBJECTIVE</h2>
+<p>#NA</p>
+<h2 id="experience">EXPERIENCE</h2>
+<p>#NA</p>
+<h2 id="projects">PROJECTS</h2>
+<h3 id="nhl-season-2022-2023-player-salaries-analysis">NHL season (2022-2023) player salaries analysis</h3>
+<p>Use different economic methods to analyze and predict player salaries. 
+Estimating the impact on salary in percentage terms of different hockey statistics.</p>
+<h3 id="analyze-the-impact-of-the-covic-gap-on-manitoba-s-labour-force">Analyze the impact of the &quot;Covic Gap&quot; on Manitoba&#39;s labour force</h3>
+<p>Use economic model to explain the labour force characteristics of different population group
 in the previous decade prior to the pandemic (2010-2019) and then predict outcomes for 2020 and
-2021 during Covid-19
-
-### Medieval village game scene design
-
-A simple medieval village game scene and a simple cutscene were created using
+2021 during Covid-19</p>
+<h3 id="medieval-village-game-scene-design">Medieval village game scene design</h3>
+<p>A simple medieval village game scene and a simple cutscene were created using
 Unreal Engine 5 and assets from the Unreal Marketplace. The scene supports ray
 tracing and a full sun-moon cycle system. At the same time, the new global
 foliage system provided by Unreal 5 is used to simulate the real foliage
-physics.
-
-### Gundam 3D model scanning and modeling
-
-Use a reality capture program to scan real life models and import them into
+physics.</p>
+<h3 id="gundam-3d-model-scanning-and-modeling">Gundam 3D model scanning and modeling</h3>
+<p>Use a reality capture program to scan real life models and import them into
 modeling software like maya or blender. At the same time, you can also use
-Unreal 5's nanite system to directly import models into Unreal 5 for use.
-
-### Sunflower calendar
-
-A user-tested multifunctional calendar. The calendar has alarm clock, work list, 
+Unreal 5&#39;s nanite system to directly import models into Unreal 5 for use.</p>
+<h3 id="sunflower-calendar">Sunflower calendar</h3>
+<p>A user-tested multifunctional calendar. The calendar has alarm clock, work list, 
 timing reminder and other functions. Through multiple human-computer interaction tests, 
-the software interface is designed so that users can use the software proficiently without additional instructions.
+the software interface is designed so that users can use the software proficiently without additional instructions.</p>
