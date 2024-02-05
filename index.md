@@ -46,9 +46,7 @@ Winnipeg, MB
 
 -   Video editing experience
 
--   UI design experience
-
--   
+-   UI design experience 
 
 -   Entry Level Unreal Engine 5 Scene Design
 
@@ -69,10 +67,6 @@ Winnipeg, MB
 ## CAREER OBJECTIVE
 
 #NA
-
-## EXPERIENCE
-
-Currently do not 
 
 ## PROJECTS
 
